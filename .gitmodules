@@ -1,0 +1,3 @@
+[submodule "vale-styles"]
+	path = vale-styles
+	url = git@github.com:testthedocs/vale-styles.git
