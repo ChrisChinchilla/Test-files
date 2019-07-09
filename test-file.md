@@ -31,3 +31,7 @@ We will, or we'll. I will or I'll, you'll, or worse it'll. But we don't want to 
 ## Inconsistent quotes
 
 This check for things like “Hey” as opposed to "Hey" or “Hey”. or even 'hey' To trigger this we need to check something else like is it advisor, or adviser.
+
+## Spelling
+
+I am making a typoo here on purpose, in order to test.
